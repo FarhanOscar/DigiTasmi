@@ -44,6 +44,7 @@
                 <x-label for="PhoneNumber" value="{{ __('Phone Number') }}" />
                 <x-input id="PhoneNumber" class="block mt-1 w-full" type="text" name="PhoneNumber" :value="old('PhoneNumber')" />
             </div>
+            <input type="text" name="status" class="hidden" value="0"/>
 
             @if (Laravel\Jetstream\Jetstream::hasTermsAndPrivacyPolicyFeature())
                 <div class="mt-4">
