@@ -7,6 +7,16 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## About Digitasmi
+
+Digitasmi is a web system developed using Laravel Php framework and tailwind CSS, it purpose are to record memorization of Al-Quran especially targeted for the Muslim Teacher to record their students Al-Quran memorization. Another feature offered by Digitasmi are:
+
+- Simple to use system
+- Performance indicator for each students
+- Admin features to manage users
+
+I am happy to received any feedback from you guys!
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
